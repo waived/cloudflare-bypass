@@ -8,12 +8,6 @@ import requests
 import threading
 from urllib.parse import urlparse
 
-# From the REQUESTS module, socks dependency must be installed:
-#
-#       pip install requests[socks]
-#       pip install PySocks
-#
-
 SOCKS4 = []
 
 active = 0
