@@ -3,7 +3,7 @@
 /////////////////////////////////////////////
 
 Overview:
-Because of the increased need for secure, many modern websites implement some
+Because of the increased need for security, many modern websites implement some
 sort of reverse-proxy technology. At the forefront of this technology, is most
 commonly found: CloudFlare. This organization offers many reverse-proxy services
 such as Cloudflare's CDN (Content Delivery Network) and WAF (Web Application
